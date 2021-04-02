@@ -1,4 +1,7 @@
-# MAYCAN Project 
+# KusitmsRider
+
+**+) MAYCAN Project**
+
 
 **+) apk 파일 위치 : client\app-debug.apk**
 
