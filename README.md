@@ -1,7 +1,4 @@
-# KusitmsRider
-
-**+) MAYCAN Project**
-
+# MAYCAN Project 
 
 **+) apk 파일 위치 : client\app-debug.apk**
 
@@ -30,7 +27,7 @@
 
 
 
-## **실행 화면 캡쳐**
+## **실행 화면**
 
 ### 
 #### -시작 화면, 업로드 화면
@@ -52,6 +49,10 @@
 
 <img src="https://user-images.githubusercontent.com/68985625/113420180-d425ec80-9403-11eb-849c-149715436808.jpg" width="40%">&nbsp;<img src="https://user-images.githubusercontent.com/68985625/113420182-d425ec80-9403-11eb-9d5d-c8ec85539f7b.jpg" width="40%">
 
+
+
+## **실행 영상**
+![시연영상](https://user-images.githubusercontent.com/68985625/113429510-9df06900-9413-11eb-88a2-36dcee6b8872.gif)
 
 
 
